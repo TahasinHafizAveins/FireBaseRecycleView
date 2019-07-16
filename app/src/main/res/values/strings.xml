@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ProjectV1</string>
+    <string name="numbers">Numbers</string>
+    <string name="todo">TODO</string>
+    <string name="enter_project_name">Enter Project Name</string>
+    <string name="add_content">Add Content</string>
+</resources>
